@@ -1,0 +1,3 @@
+1. Manage Locations 
+2. Search for Weather Data
+3. Exit

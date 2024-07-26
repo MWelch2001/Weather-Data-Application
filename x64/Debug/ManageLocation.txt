@@ -1,0 +1,5 @@
+1. Add new location 
+2. List of locations
+3. Modify location data
+4. Search for location
+5. Main menu
